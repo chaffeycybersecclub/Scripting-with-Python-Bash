@@ -1,1 +1,21 @@
+Learn basic python
+
+~~~OBJECTIVE AND PURPOSE: To introduce members to python and learn to run a program from the command line. 
+
+*If you already know python, help someone else or look up a tutorial for a script
+
+-	Visit www.learnpython.org
+
+-	Learn to take input, print, and basic math operations.
+
+-	Write a python program that takes two numbers as input, and outputs the sum, product, quotient and modulo. 
+  You can do this using a text editor and saving is as a .py file, or use an IDE.
+  
+-	Using the command line, find your .py file and execute it using the python command.
+
+(executing a file named test.py the following way)
+python test.py
+[program starts running]
+
+-	Congrats, you just wrote a program in python and executed it on the command line!
 
